@@ -20,3 +20,20 @@ Implement KNN for classification using the Iris dataset, tune K, and visualize r
 - **Optimal K:** 2
 - **Accuracy:** 100%
 - **Confusion Matrix:**
+[[10 0 0]
+[ 0 9 0]
+[ 0 0 11]]
+- **Perfect classification on all classes**
+
+## Tools
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+## Files
+- `knn_classification.py`: Main code
+- `Iris.csv`: Dataset
+- `accuracy_plot.png`: Accuracy vs K plot
+- `decision_boundary.png`: KNN decision boundary
